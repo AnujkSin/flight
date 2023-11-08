@@ -1,10 +1,10 @@
-import Hotels from './components/Flight';
+import Flight from './components/Flight';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-       <Hotels/>
+       <Flight/>
     </div>
   );
 }
